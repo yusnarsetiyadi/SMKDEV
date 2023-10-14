@@ -1,0 +1,41 @@
+/* nav */
+nav{
+    background-color: #ffb500;
+    padding: 5px;
+    padding-bottom: 80px;
+    font-family: 'Times New Roman';
+    position: sticky;
+    top: 0;
+}
+
+nav a{
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+}
+
+nav li{
+    padding-top: 15px;
+    display: inline;
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+.jumbotron{
+    font-size: 15px;
+    padding: 70px;
+    background-color: #ffb500;
+    text-align: center;
+    color: white;
+}
+
+footer{
+    padding: 20px;
+    color: white;
+    background-color: #ffb500;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
